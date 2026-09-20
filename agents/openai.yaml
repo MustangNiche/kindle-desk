@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kindle Desk · 复古桌面屏"
+  short_description: "搭建和维护 Kindle 桌面屏，处理待办同步、每日词汇、定时天气与倒置触摸"
+  default_prompt: "使用 $kindle-desk 检查我的 Kindle 桌面屏项目，并完成这次更新。"
