@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+private/
+*-backup*/
+curl.conf
+todoist.json
+state.json
+cache.json
+*.log
+*.ttf
+*.ttc
+*.otf
+gre-source.zip
+GRE_2.json
